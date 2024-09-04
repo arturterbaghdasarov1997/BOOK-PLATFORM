@@ -1,0 +1,28 @@
+.book {
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+  
+.book h3 {
+    margin: 0;
+    color: #333;
+    font-size: 1.5rem;
+}
+  
+.book p {
+    margin: 5px 0;
+    color: #555;
+    font-size: 1rem;
+}
+  
+.book p:first-of-type {
+    font-weight: bold;
+}
+  
+.book p:last-of-type {
+    font-style: italic;
+}  
