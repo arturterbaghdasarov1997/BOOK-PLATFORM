@@ -1,0 +1,17 @@
+.home-page {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-page h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .home-page .email-form {
+    margin-top: 20px;
+  }  

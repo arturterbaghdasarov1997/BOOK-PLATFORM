@@ -1,0 +1,25 @@
+.discussion-page {
+    padding: 20px;
+}
+
+.discussion-list {
+    margin-top: 20px;
+}
+
+.discussion-item {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.discussion-item h3 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.discussion-item p {
+    margin: 5px 0;
+}
+
+.discussion-item small {
+    color: #666;
+}
